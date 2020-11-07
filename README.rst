@@ -11,7 +11,7 @@ Requirements
 
 - OS: Linux, Windows, FreeBSD, Solaris
 - Python version: 3.X
-- Packages: psutil, netifaces, wmi (only on Windows), enum34 (only on python 3.0.0 - 3.4.0)
+- Packages: psutil, netifaces, wmi (only on Windows) 
 - For Windows OS Microsoft Visual C++ 10.0 or higher is required
 
 ==============
